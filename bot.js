@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 var prefix = "$"
-var adminprefix = '3'
+var adminprefix = '!'
 
 
 //bc
